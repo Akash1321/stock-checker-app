@@ -10,4 +10,4 @@ price of the stocks to check if they are making any profit or loss and by what p
 3. (current price - initial price)  * quantity of stocks 
 4. (Profit price / initial price) * 100
 
-![alt text](projects-img/mark14_img.png)
+![image of the app](projects-img/mark14_img.png)
